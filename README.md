@@ -32,8 +32,6 @@
 
 - 📫 How to reach me **abdirahmanahmed2728@gmail.com**
 
-<h3 align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abdirahman312" alt="GitHub Streak" /></a>
-
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/anelkamd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/anelkamd" height="30" width="40" /></a>
@@ -43,3 +41,4 @@
 <a href="https://hashnode.com/@anelka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@anelkamd" height="30" width="40" /></a>
 </p>
 
+<h3 align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abdirahman312" alt="GitHub Streak" /></a>
