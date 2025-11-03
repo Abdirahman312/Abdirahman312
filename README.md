@@ -1,4 +1,5 @@
-</a><img width="1000" height="400" alt="fallout_grayscale (1)" src="https://github.com/user-attachments/assets/2cc5768e-0a6e-4389-9139-c6f36ba1be8f" />
+<img width="1000" height="400" alt="fallout_grayscale (1) (1)" src="https://github.com/user-attachments/assets/8e895092-9b13-4e0f-b2cf-043884e3b798" />
+
 
 <div align="center">
   <!-- Profile Views -->
@@ -18,6 +19,7 @@
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
+
 <p>
 🌱 Improving my data analysis skills<br>
 🔭 Experience with Excel, Python & SQL<br>
