@@ -5,23 +5,21 @@
 </br>
 <div align="center">
 <a href="https://github.com/Abdirahman312">
-  <img width="150px" 
-       src="https://komarev.com/ghpvc/?username=Abdirahman312&label=Views&color=000000&style=for-the-badge" 
-       alt="Profile Views"
-       title="Total Views"/> 
+  <img width="180px" 
+       src="https://komarev.com/ghpvc/?username=Abdirahman312&label=Profile%20views&color=000000&style=for-the-badge" 
+       alt="Visualizações no perfil"
+       title="Total de visualizações"/> 
 </a>
-
 <a href="https://api.github-star-counter.workers.dev/user/Abdirahman312">
   <img width="115px" 
-       alt="Stars" 
-       title="Total Stars" 
+       alt="seguidores" 
+       title="Total de estrelas" 
        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Abdirahman312" /> 
 </a>
-
 <a href="https://github.com/Abdirahman312?tab=followers">
   <img width="150px" 
-       alt="Followers" 
-       title="GitHub Followers" 
+       alt="seguidores" 
+       title="seguidores no GitHub" 
        src="https://custom-icon-badges.herokuapp.com/github/followers/Abdirahman312?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
 </a>
 </div>
