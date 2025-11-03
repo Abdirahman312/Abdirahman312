@@ -1,5 +1,4 @@
-<img width="1000" height="400" alt="fallout_grayscale (1) (1)" src="https://github.com/user-attachments/assets/8e895092-9b13-4e0f-b2cf-043884e3b798" />
-
+<img width="1000" height="400" alt="fallout_grayscale (1) (2)" src="https://github.com/user-attachments/assets/ee637ffc-68a4-419e-8b2a-54bc6adb0bcc" />
 
 <div align="center">
   <!-- Profile Views -->
