@@ -1,9 +1,9 @@
-<img width="1000" height="400" alt="fallout_grayscale (1) (2)" src="https://github.com/user-attachments/assets/ee637ffc-68a4-419e-8b2a-54bc6adb0bcc" />
+<img width="1000" height="400" alt="fallout_grayscale (1)" src="https://github.com/user-attachments/assets/6f571c9d-e0fc-4eb9-bdd7-5b869dab324d" />
 
 <div align="center">
   <!-- Profile Views -->
   <a href="https://github.com/Abdirahman312" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Abdirahman312&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" 
+    <img src="https://komarev.com/ghpvc/?username=Abdirahman312&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
 
   <!-- Total Stars -->
   <a href="https://github.com/Abdirahman312?tab=repositories&sort=stargazers" target="_blank">
