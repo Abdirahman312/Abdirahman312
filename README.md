@@ -65,8 +65,8 @@
   <p align="center">
     <a href="https://github.com/Abdirahman312/Abdirahman312">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdirahman312&repo=Abdirahman312&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Artificial-Intelligence&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/Abdirahman312/BMW-Sales-Analysis-Power-BI-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdirahman312&repo=BMW-Sales-Analysis-Power-BI-&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
     <a href="https://github.com/JoshuaThadi/Generative-AI">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Generative-AI&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
     <a href="https://github.com/JoshuaThadi/Web-Development">
