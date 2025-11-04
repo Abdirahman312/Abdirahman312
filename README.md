@@ -54,11 +54,14 @@
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,figma,python,ai" /><br>
+    <img src="https://skillicons.dev/icons?i=github,javascript,html,css,php,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=r,sqlite,blender,stackoverflow,mongodb,ps" /><br>
+    <img src="https://skillicons.dev/icons?i=discord,d3,c,cs,blender,au" /><br>
+    <img src="https://skillicons.dev/icons?i=anaconda,cloudflare" /><br>
 </div>
+
+<br/>
 
 <!-- Best Repositories -->
 <div align="center">
