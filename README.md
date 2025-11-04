@@ -39,7 +39,7 @@
 <a href="https://twitter.com/anelka_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anelka_md" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anelkamd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anelkamd" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/anelka.md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anelka.md" height="30" width="40" /></a>
-<a href="https://hashnode.com/@anelka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@anelkamd" height="30" width="40" /></a>
+<a href="https://hashnode.com/@Abdirahman12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@Abdirahman12" height="30" width="40" /></a>
 </p>
 
 
