@@ -25,6 +25,7 @@
 ⚡ Interested in DS, ML, Automation & AI<br>
 </p>
 
+<p align="left"> <a href="https://twitter.com/anelka_md" target="blank"><img src="https://img.shields.io/twitter/follow/anelka_md?logo=twitter&style=for-the-badge" alt="anelka_md" /></a> </p>
 
 </br>
 
