@@ -57,7 +57,7 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,figma,python,ai" /><br>
     <img src="https://skillicons.dev/icons?i=github,javascript,html,css,php,vscode" /><br>
     <img src="https://skillicons.dev/icons?i=r,sqlite,blender,stackoverflow,mongodb,ps" /><br>
-    <img src="https://skillicons.dev/icons?i=discord,d3,c,cs,blender,au" /><br>
+    <img src="https://skillicons.dev/icons?i=discord,rust,c,cs,blender,au" /><br>
     <img src="https://skillicons.dev/icons?i=anaconda,cloudflare" /><br>
 </div>
 
