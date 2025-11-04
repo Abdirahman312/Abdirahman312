@@ -34,7 +34,7 @@
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://twitter.com/Abdirahman51024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anelka_md" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/abdirahmanahmed](https://www.linkedin.com/in/abdirahman-ahmed-b7841a343/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anelkamd" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdirahman-ahmed-b7841a343/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anelkamd" height="30" width="40" /></a>
 <a href="https://www.instagram.com/oziozi_12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/oziozi_12" height="30" width="40" /></a>
 <a href="https://hashnode.com/@Abdirahman12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@Abdirahman12" height="30" width="40" /></a>
 </p>
