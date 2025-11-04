@@ -86,7 +86,7 @@
 
 <h3 align="center">Follow my instagram👇</h3>
 <div align="center">
-<a href="https://twitter.com/anelka_md" target="blank"><img src="https://img.shields.io/twitter/follow/anelka_md?logo=twitter&style=for-the-badge" alt="anelka_md" /></a> </p
+<a href="https://twitter.com/anelka_md" target="blank"><img src="https://img.shields.io/twitter/follow/oziozi_12?logo=twitter&style=for-the-badge" alt="anelka_md" /></a> </p
 
 ![7192b36dadb8d4dd4eb71a4227cc6a95](https://github.com/user-attachments/assets/b494e367-6ccc-47a5-a2f9-ac8ebacb5b81)
 
