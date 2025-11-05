@@ -72,10 +72,10 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdirahman312&repo=Abdirahman312&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
     <a href="https://github.com/Abdirahman312/BMW-Sales-Analysis-Power-BI-">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdirahman312&repo=BMW-Sales-Analysis-Power-BI-&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/Abdirahman312/NCR_ride_analysis_cleaning_python_only">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdirahman312&repo=NCR_ride_analysis_cleaning_python_only&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/Abdirahman312/BMW-Sales-Analysis-Excel-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdirahman312&repo=BMW-Sales-Analysis-Excel-&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/Abdirahman312/NCR_ride_analysis_python_project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdirahman312&repo=NCR_ride_analysis_python_project&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/Abdirahman312/BMW_Sales_Analysis_Excel_report">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdirahman312&repo=BMW_Sales_Analysis_Excel_report&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
   </p>
 </div>
 
