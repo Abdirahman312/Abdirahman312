@@ -68,8 +68,8 @@
 <div align="center">
   <h3>⭐️ Best Repositories</h3>
   <p align="center">
-    <a href="https://github.com/Abdirahman312/Netflix_Data_Analysis_PostgreSQL-_Report">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdirahman312&repo=Netflix_Data_Analysis_PostgreSQL-_Report&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/Abdirahman312/Netflix_Data_Analysis_PostgreSQL_Report">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdirahman312&repo=Netflix_Data_Analysis_PostgreSQL_Report&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
     <a href="https://github.com/Abdirahman312/BMW_Sales_Analysis_Power_BI_report">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdirahman312&repo=BMW_Sales_Analysis_Power_BI_report&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
     <a href="https://github.com/Abdirahman312/NCR_ride_analysis_python_project">
