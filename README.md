@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdirahman</h1>
-<h3 align="center">A passionate data analyst turning raw data into clear insights.</h3>
+<img width="1000" height="400" alt="fallout_grayscale (1)" src="https://github.com/user-attachments/assets/cf1c7fc7-ccf5-4ff9-aed4-a432e5cc2369" />
 
 <div align="center">
   <!-- Profile Views -->
