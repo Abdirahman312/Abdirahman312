@@ -25,8 +25,8 @@
 ⚡ Interested in DS, ML, Automation & AI<br>
 </p>
 
-<!-- Gif  -->
-<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
+<!-- Gif 
+<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br> -->
 
 - 📊 Exploring: ways to turn raw datasets into clear insights and actionable recommendations.
 
