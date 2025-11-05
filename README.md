@@ -25,11 +25,16 @@
 ⚡ Interested in DS, ML, Automation & AI<br>
 </p>
 
+<!-- Gif  -->
+<img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"></br>
+
 - 📊 Exploring: ways to turn raw datasets into clear insights and actionable recommendations.
 
 - 📈 Leveling up in: **Excel, SQL, Python, Power BI, and storytelling with data.**
 
 - 📫 How to reach me **abdirahmanahmed2728@gmail.com**
+
+
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
