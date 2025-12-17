@@ -14,6 +14,7 @@
     <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Abdirahman312?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
 </div>
 
+📄 **Resume:** [Download my resume](Resume.pdf)
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
